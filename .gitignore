@@ -1,0 +1,5 @@
+build/
+certificates/
+overlay-OpenThread-*.conf
+*.pem
+*.zip
